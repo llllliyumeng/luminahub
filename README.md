@@ -36,3 +36,4 @@ mvn spring-boot:run
 
 - `backend/README.md` 包含后端相关文档和设计说明。
 - `frontend/README.md` 包含前端构建与运行说明。
+- `CHANGELOG.md` 和 `RELEASE_NOTES.md` 用于记录版本演进和发布摘要。
